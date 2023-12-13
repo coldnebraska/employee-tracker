@@ -14,7 +14,7 @@ This repository can be cloned or downloaded as a zip file.
 
 ## Usage
 Please refer to the included usage video.  
-https://drive.google.com/file/d/1538UvSzyQljEkE6vxNLEm_AyliK5hCoT/view
+https://drive.google.com/file/d/1mmZfrYMpKNhUZGR-y99mH7J6Wsk5euSe/view
 
 ## License
 MIT License
